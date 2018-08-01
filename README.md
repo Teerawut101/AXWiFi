@@ -20,4 +20,3 @@ Arduino Library for AXWiFi
 5. Depending on the type of board you're using, you need to modify the header file to match.
    For example, if you're using a AXWiFi. 
    You just `#include <AXWIFI.h>`
-6. A
